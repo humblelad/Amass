@@ -5,4 +5,4 @@ name = "go"
 enabled = true
 
   [analyzers.meta]
-  import_path = "https://github.com/humblelad/Amass/blob/master/go.mod"
+  import_path = "https://github.com/humblelad/Amass/blob/master/config/config.go"
